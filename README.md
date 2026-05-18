@@ -3,6 +3,10 @@
 
 Entry Editor 2026 to aplikacja bazowana na programie Splash Entry Editor 2008, w nowej odsłonie oraz z nowymi funkcjonalnościami
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Michuxi/Entry_Editor_2026?label=Wersja:&color=blue) 
+![Static Badge](https://img.shields.io/badge/Aktualizacja:-Maj%202026-green)
+
+
 ---
 
 ## Pobierz Program
@@ -10,8 +14,8 @@ Najnowszą wersję programu `plik .exe` znajdziesz zawsze w sekcji **Releases** 
 
 PRZED PIERWSZYM ZGŁOSZENIEM ZAWODNIKÓW BARDZO POROSZĘ ZAPOZNAĆ SIĘ Z INSTRUKCJĄ OBSŁUGI - nie zajmie to dużo czasu, a pomoże uniknąć błędów podczas zgłaszania.
 
-* **[KLIKNIJ TUTAJ, ABY POBRAĆ NAJNOWSZĄ WERSJĘ](https://github.com/Michuxi/Entry_Editor_2026/releases/download/1.0.2/Entry.Editor.2026.exe)**
-* **[POBIERZ INSTRUKCJĘ OBSŁUGI (PDF)](https://github.com/Michuxi/Entry_Editor_2026/releases/download/1.0.2/Instrukcja.uzytkowania.pdf)**
+* **[KLIKNIJ TUTAJ, ABY POBRAĆ NAJNOWSZĄ WERSJĘ](https://github.com/Michuxi/Entry_Editor_2026/releases/download/latest/Entry.Editor.2026.exe)**
+* **[POBIERZ INSTRUKCJĘ OBSŁUGI (PDF)](https://github.com/Michuxi/Entry_Editor_2026/releases/download/latest/Instrukcja.uzytkowania.pdf)**
 
 ---
 
@@ -53,6 +57,6 @@ Jeśli Entry Editor 2026 oszczędza Twój czas, pomaga Ci w zgłaszaniu zawodnik
 ☕ **[Kup mi kawę - buycoffee.to/michux](https://buycoffee.to/michux)**
 
 ---
-**Autor:** Michał Gołąb  
-**Wersja:** 1.0.2 (Maj 2026)  
+
+**Autor:** Michał Gołąb   
 *Projekt nie jest oprogramowaniem Open Source. Wszystkie prawa zastrzeżone.*
