@@ -14,8 +14,8 @@ Najnowszą wersję programu `plik .exe` znajdziesz zawsze w sekcji **Releases** 
 
 PRZED PIERWSZYM ZGŁOSZENIEM ZAWODNIKÓW BARDZO POROSZĘ ZAPOZNAĆ SIĘ Z INSTRUKCJĄ OBSŁUGI - nie zajmie to dużo czasu, a pomoże uniknąć błędów podczas zgłaszania.
 
-* **[KLIKNIJ TUTAJ, ABY POBRAĆ NAJNOWSZĄ WERSJĘ](https://github.com/Michuxi/Entry_Editor_2026/releases/download/latest/Entry.Editor.2026.exe)**
-* **[POBIERZ INSTRUKCJĘ OBSŁUGI (PDF)](https://github.com/Michuxi/Entry_Editor_2026/releases/download/latest/Instrukcja.uzytkowania.pdf)**
+* **[KLIKNIJ TUTAJ, ABY POBRAĆ NAJNOWSZĄ WERSJĘ](https://github.com/Michuxi/Entry_Editor_2026/releases/latest/download/Entry.Editor.2026.exe)**
+* **[POBIERZ INSTRUKCJĘ OBSŁUGI (PDF)](https://github.com/Michuxi/Entry_Editor_2026/releases/latest/download/Instrukcja.uzytkowania.pdf)**
 
 ---
 
