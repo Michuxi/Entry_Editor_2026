@@ -4,7 +4,7 @@
 Entry Editor 2026 to aplikacja bazowana na programie Splash Entry Editor 2008, w nowej odsłonie oraz z nowymi funkcjonalnościami
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Michuxi/Entry_Editor_2026?label=Wersja:&color=blue) 
-![Static Badge](https://img.shields.io/badge/Aktualizacja:-Maj%202026-green)
+![Static Badge](https://img.shields.io/badge/Aktualizacja:-Czerwiec%202026-green)
 
 
 ---
